@@ -14,11 +14,12 @@ uses the built-in time and datetime modules to handle date and time calculations
 - [ ] To run the Terminal-based Alarm Clock, you must have Kotlin installed on your system.
 
 # Getting Started
+
 1. Required to run project:
    To run this project use IntelliJIDEA.
    Gradle version used: gradle 2.0.
 2. Clone this repository :
-   `git clone https://github.com/Sonal3274/AlarmClock.git`
+   `git clone https://github.com/Sonal3274/AlarmClock.git`                                                                                                                                                                                                                                    
 3. open Project in intelliJIDEA
 
 4. Build Project
